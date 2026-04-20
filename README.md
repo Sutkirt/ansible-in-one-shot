@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ansible In One Shot — TrainWithShubham
 
 Learn Ansible hands-on with real AWS infrastructure provisioned by Terraform.
@@ -122,3 +123,7 @@ cd terraform && terraform destroy -auto-approve
 ## Maintainer
 
 **Shubham Londhe** — [TrainWithShubham](https://github.com/LondheShubham153)
+=======
+# ansible-in-one-shot
+This is for Ansible 
+>>>>>>> 10d9a59e067eebb3d43784d3eacd2605d376cb49
